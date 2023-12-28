@@ -1,2 +1,2 @@
-# Airbnb-Python
-Analises do banco de dados público da Airbnb usando Python com Pandas, NumPy e Matplotlib.
+<h2 align=center> Análises da empresa Airbnb usando Python </h2>
+
