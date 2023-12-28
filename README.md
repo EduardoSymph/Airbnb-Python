@@ -29,3 +29,10 @@ Na análise seguinte, foi verificado o valor da diária mais alta nas regiões d
 
 Conclusão: Brooklyn, Manhattan e Queens dividem o maior aluguel diário (10 mil doláres).
 
+Prosseguindo com as análises, o foco foi direcionado para identificar o maior valor de aluguel, segmentado por bairro e tipo de quarto.
+
+![image](https://github.com/EduardoSymph/Airbnb-Python/assets/134222436/6ea71b2e-b665-4f2d-9655-30a8225c3e4b)
+
+Conclusão: Existem notaveis diferenças de alugueis do mesmo tipo de quarto mas em regiões diferentes (em Allerton um quarto do tipo Entire home/apt custa	450 dolares, Arrochar o valor já sobe para 625 dolares).
+
+
