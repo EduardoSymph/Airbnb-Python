@@ -12,3 +12,8 @@ Este projeto utiliza a base de dados pública da Airbnb, uma renomada empresa co
 
 - ``Python``
 - ``Jupyter Notebook``
+
+<h2>Análises do Projeto 🧐</h2>
+
+Após carregar os dados iniciais de um arquivo CSV, comecei a primeira leitura e análise dos dados. Para um entendimento mais aprofundado das análises realizadas, você pode acessar o Jupyter Notebook <a href="https://github.com/EduardoSymph/Airbnb-Python/blob/main/airbnb_analises.ipynb" target="_blank"> clicando aqui</a>. Alternativamente, se preferir, o arquivo .py está disponível e pode ser <a href="https://github.com/EduardoSymph/Airbnb-Python/blob/main/airbnb_analises.py" target="_blank"> acessado aqui</a>.
+
