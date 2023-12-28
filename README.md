@@ -6,7 +6,7 @@
 
 <h2>Descrição do projeto :memo:</h2>
 
-Este projeto utiliza a base de dados pública da Airbnb, uma renomada empresa comunitária focada em aluguéis e hospedagens. Foram realizadas análises empregando a linguagem Python e bibliotecas especializadas como Pandas, NumPy e MatPlotlib. O objetivo principal é processar e visualizar os dados para extrair insights que podem ser úteis para stakeholders e entusiastas do setor.
+Este projeto utiliza a base de dados pública da Airbnb, uma renomada empresa comunitária focada em aluguéis e hospedagens. Foram realizadas análises empregando a linguagem <b>Python</b> e bibliotecas especializadas como <b>Pandas, NumPy e MatPlotlib</b>. O objetivo principal é processar e visualizar os dados para extrair insights que podem ser úteis para stakeholders e entusiastas do setor.
 
 <h2>Técnologias Utilizadas 🛠️</h2>
 
