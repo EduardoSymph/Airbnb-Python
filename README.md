@@ -35,4 +35,9 @@ Prosseguindo com as análises, o foco foi direcionado para identificar o maior v
 
 Conclusão: Existem notáveis diferenças de aluguéis do mesmo tipo de quarto, mas em regiões diferentes (em Allerton, um quarto do tipo Entire home/apt custa 450 dólares; em Arrochar, o valor já sobe para 625 dólares).
 
+Por fim, foi analsado qual o menor valor de latitude, agrupado por região. Com o intuito de facilitar a compreensão esta informação foi apresentada através de um gráfico de barras para que a comparação entra as regiões ficasse clara."
+
+![image](https://github.com/EduardoSymph/Airbnb-Python/assets/134222436/815cd9b7-d18f-4d79-b982-ed95ce103e6b)
+
+Conclusão: Staten Island possuí a menor latitude dentre as regiões.
 
