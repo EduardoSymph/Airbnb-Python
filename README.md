@@ -17,3 +17,15 @@ Este projeto utiliza a base de dados pública da Airbnb, uma renomada empresa co
 
 Após carregar os dados iniciais de um arquivo CSV, comecei a primeira leitura e análise dos dados. Para um entendimento mais aprofundado das análises realizadas, você pode acessar o Jupyter Notebook <a href="https://github.com/EduardoSymph/Airbnb-Python/blob/main/airbnb_analises.ipynb" target="_blank"> clicando aqui</a>. Alternativamente, se preferir, o arquivo .py está disponível e pode ser <a href="https://github.com/EduardoSymph/Airbnb-Python/blob/main/airbnb_analises.py" target="_blank"> acessado aqui</a>.
 
+Iniciamos a análise focando na média dos aluguéis. Isso foi feito utilizando a função mean() em conjunto com a coluna 'price'. Após obter esse resultado inicial, a análise foi expandida com um groupby por regiões para obter especificidades mais detalhadas:
+
+![image](https://github.com/EduardoSymph/Airbnb-Python/assets/134222436/bd7d3cd1-704f-42b9-aa6d-127d21537a73)
+
+Conclusão: a maior média de preços está em Manhattan.
+
+Na análise seguinte, foi verificado o valor da diária mais alta nas regiões da cidade de Nova York. Após identificar que mais de uma região apresentava valores semelhantes, optei por aplicar um gráfico de histograma, facilitando assim a visualização desses dados:
+
+![image](https://github.com/EduardoSymph/Airbnb-Python/assets/134222436/edb3bda1-3051-480c-9ede-b1266a65d1a6)
+
+Conclusão: Brooklyn, Manhattan e Queens dividem o maior aluguel diário (10 mil doláres).
+
